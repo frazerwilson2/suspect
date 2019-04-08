@@ -1,0 +1,24 @@
+[{
+    "url": "http://localhost:3000/",
+    "pageTitle": "Home",
+    "els": {
+        "heading":{
+            "color": "rgb(46, 147, 210)",
+            "font-size": "12px"
+        }
+    }
+},
+{
+    "url": "http://localhost:3000/post/designers-should-learn-to-code-thing",
+    "pageTitle": "something",
+    "els": {
+        "heading":{
+            "color": "rgb(46, 147, 210)",
+            "text-decoration": "underline"
+        },
+        "link":{
+            "color": "rgb(68, 79, 88)",
+            "cursor": "pointer"
+        }
+    }
+}]

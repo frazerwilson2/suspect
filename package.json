@@ -1,0 +1,20 @@
+{
+  "name": "csstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node build.js && npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-puppeteer": "^4.1.0",
+    "puppeteer": "^1.14.0",
+    "puppeteer-core": "^1.14.0"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
